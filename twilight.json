@@ -184,6 +184,20 @@
             "required": false,
             "value": false,
             "selected": false
+        },
+        {
+            "id": "fltr_llbhth",
+            "type": "collection",
+            "format": "collection",
+            "label": "فلتر للبحث",
+            "description": "فلتر",
+            "labelHTML": null,
+            "item_label": "فلتر للبحث",
+            "icon": "sicon-list-add",
+            "fields": [],
+            "value": [],
+            "minLength": 1,
+            "maxLength": "1"
         }
     ],
     "components": [
